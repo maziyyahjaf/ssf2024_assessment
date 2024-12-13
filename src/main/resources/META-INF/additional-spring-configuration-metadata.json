@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "noticeboard.db.host",
+    "type": "java.lang.String",
+    "description": "A description for 'noticeboard.db.host'"
+  },
+  {
+    "name": "noticeboard.db.port",
+    "type": "java.lang.String",
+    "description": "A description for 'noticeboard.db.port'"
+  },
+  {
+    "name": "noticeboard.db.database",
+    "type": "java.lang.String",
+    "description": "A description for 'noticeboard.db.database'"
+  },
+  {
+    "name": "noticeboard.db.username",
+    "type": "java.lang.String",
+    "description": "A description for 'noticeboard.db.username'"
+  },
+  {
+    "name": "noticeboard.db.password",
+    "type": "java.lang.String",
+    "description": "A description for 'noticeboard.db.password'"
+  },
+  {
+    "name": "notice.submission.url",
+    "type": "java.lang.String",
+    "description": "A description for 'notice.submission.url'"
+  }
+]}
